@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+psutil
+Pillow
+beautifulsoup4
+
